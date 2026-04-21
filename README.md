@@ -6,4 +6,4 @@
 ### Project 3 adding CSS to HTML 
 **Theme** The theme of my webpage is my lego collection. 
 **What  I learned** How to use css to customize how the website looks.
-**Challenges** I had a typo in one of the colors I picked that threw things off after that I had to fix . And I had to change from using 100% width to fit to content because I liked how that looked better 
+**Challenges** I had a typo in one of the colors I picked that threw things off after that I had to fix . And I had to change from not using width to width:100% to  width: fit to content because I liked how that looked better 
