@@ -97,3 +97,24 @@ td {
 tr:hover td {
     background-color: #fffde7;
 }
+
+@media (max-width: 600px) {
+    img {
+        width: 100%; 
+    }
+    nav {
+        display:flex;
+        flex-direction: column;
+    }
+    nav a {
+        margin-right: 0;
+        margin-bottom: 6px;
+    }
+    table {
+        font-size: 12px;
+        width: 100%;
+    }
+    td, th {
+        padding: 6px
+    }
+}
